@@ -1,0 +1,7 @@
+.yt-live-chat-renderer#contents {
+	zoom: var(--yt-live-chat-zoomer-zoom) !important;
+}
+
+.yt-live-chat-renderer#input-panel.hidden {
+	display: none !important;
+}

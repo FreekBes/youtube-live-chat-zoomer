@@ -1,0 +1,21 @@
+body {
+	margin: 8px;
+	background: #7a7a7a;
+	user-select: none;
+}
+
+fieldset {
+	background: #bababa;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin: 8px 0;
+	padding: 8px;
+}
+
+label > * {
+	vertical-align: middle;
+}
+
+label {
+	font-weight: bold;
+}

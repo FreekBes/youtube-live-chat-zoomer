@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>YouTube Live Chat Zoomer</title>
+	<link rel="stylesheet" type="text/css" href="../css/popup.css">
+</head>
+<body>
+	<form id="settings" action="javascript:void(0);">
+		<fieldset id="zoom">
+			<label for="zoom">Chat Zoom</label>
+			<input class="settings-input" type="range" id="zoom" name="zoom" min="10" max="1000" value="100">
+			<output for="zoom">100</output>%
+		</fieldset>
+		<fieldset id="hide-input">
+			<label>
+				<input class="settings-input" type="checkbox" id="hide-input" name="hide-input">
+				<span>Hide Chat Input</span>
+			</label>
+		</fieldset>
+	</form>
+	<script src="../js/settings/defaults.js"></script>
+	<script src="../js/settings/popup.js"></script>
+</body>
+</html>
