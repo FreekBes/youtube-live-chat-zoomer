@@ -8,6 +8,7 @@ zip -r youtube-live-chat-zoomer.zip . \
 	-x ".*" \
 	-x "*/.*" \
 	-x "build.sh" \
+	-x "README.md" \
 	-x "imgs/icon/icon.psd" \
 	-x "youtube-live-chat-zoomer.zip"
 
