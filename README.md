@@ -1,5 +1,7 @@
 # Youtube Live Chat Zoomer
-A simple light-weight Chrome extension to allow for zooming in or out of the YouTube Live Popout Chat window. Useful for streamers who have a hard time reading the chat window when the text is too small.
+A simple light-weight Chrome extension that makes it possible to increase the size of chat messages in YouTube's Live Popout Chat. Useful for streamers who have a hard time reading the chat when the text is too small.
+
+Also adds the option to hide the chat input locally, which can be useful if the window size is limited.
 
 ---
 
