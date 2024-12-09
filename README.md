@@ -8,7 +8,7 @@ Also adds the option to hide the chat input locally, which can be useful if the 
 ## Installation
 
 ### Chrome Web Store
-It is recommended to install the extension from the [Chrome Web Store](). This will ensure that you always have the latest version of the extension.
+It is recommended to install the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-live-chat-zoomer/knakicnpndgihdnfmkipjiakgdlgliil). This will ensure that you always have the latest version of the extension.
 
 ### Manual installation
 1. Download the latest release from the [Releases](https://github.com/FreekBes/youtube-live-chat-zoomer/releases) page.
